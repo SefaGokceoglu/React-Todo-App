@@ -14,7 +14,7 @@ There is a SearchBox for filter the todos.
 There is a Simple Sign In And Sign Up page. I have used Firebase Authentication To Sign Up and Sign In.
 
 
-<p float="right">
+<p float="left">
   <img src="https://user-images.githubusercontent.com/75680845/107036585-ed773780-67ca-11eb-91d9-7ab463497e98.png" width="450" />
   <img src="https://user-images.githubusercontent.com/75680845/107036587-ee0fce00-67ca-11eb-9143-8f6443e8ace1.png" width="450" /> 
 </p>
