@@ -4,9 +4,11 @@ This is a Todo Project inReact with Draggeble Todos in 3 Section (To Do's , In P
 
 ![mainpage](https://user-images.githubusercontent.com/75680845/107036577-ecdea100-67ca-11eb-8fa1-eb3797523bab.png)
 
+
 There is a SearchBox for filter the todos.
 
 
+![Screenshot_6](https://user-images.githubusercontent.com/75680845/107036583-ed773780-67ca-11eb-90f7-f95a9daa8a8e.png)
 
 ## Getting Started with Create React App
 
