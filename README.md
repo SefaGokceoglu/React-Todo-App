@@ -1,3 +1,9 @@
+# React-Todo-App
+This is a Todo Project inReact with Draggeble Todos in 3 Section (To Do's , In Progress , Completed) 
+There is a SearchBox for filteren todos.
+
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
