@@ -1,0 +1,75 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    ". . .";
+}
+.Signout{
+  width: 100px;
+  height: 50px;
+  background-color: lightgray;
+  margin-top: 50px;
+  margin-right: 50px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border-radius: 25%;
+  outline: none;
+  border:none
+  
+}
+.Signout:hover{
+  margin-top: 45px;
+  margin-right: 45px;
+  width: 110px;
+  height: 55px;
+}
+
+  .Card {
+    text-align: center;
+    justify-content: space-between;
+  }
+  .ID{
+    text-align: center;
+    color:aliceblue;
+    padding: 2px;
+  }
+  .image{
+    width: 10px;
+    
+  }
+  .Card{
+    -moz-user-select: none; 
+    -webkit-user-select: none; 
+    -ms-user-select:none; 
+    user-select:none;
+    -o-user-select:none;
+    display:block;
+    height: auto;
+    width: auto;
+    margin: 30px;
+    padding: 20px;
+    align-items: center;
+    background-color: rgb(63, 63, 63);
+    border-radius: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  .Card:hover {
+    box-shadow: 0 32px 64px 0 rgba(0,0,0,0.2);
+  }
+  .mail{
+    font-size: 9px;
+  }
+  .header{
+    text-align: center;
+  }
+  .Drop{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5% ;
+    padding: 10px;
+    margin: 5px;
+  }
