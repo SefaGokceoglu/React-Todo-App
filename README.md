@@ -8,7 +8,7 @@ This is a Todo Project inReact with Draggeble Todos in 3 Section (To Do's , In P
 There is a SearchBox for filter the todos.
 
 
-![Screenshot_6](https://user-images.githubusercontent.com/75680845/107036583-ed773780-67ca-11eb-90f7-f95a9daa8a8e.png)
+![Screenshot_9](https://user-images.githubusercontent.com/75680845/107036957-7b532280-67cb-11eb-92ef-9386ce75f2d8.png)
 
 ## Getting Started with Create React App
 
