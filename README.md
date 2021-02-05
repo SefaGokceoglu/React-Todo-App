@@ -10,6 +10,11 @@ There is a SearchBox for filter the todos.
 
 ![Screenshot_9](https://user-images.githubusercontent.com/75680845/107036957-7b532280-67cb-11eb-92ef-9386ce75f2d8.png)
 
+
+There is a Simple Sign In And Sign Up page. I have used Firebase Authentication To Sign Up and Sign In.
+
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
