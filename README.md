@@ -1,5 +1,5 @@
 # React-Todo-App
-This is a Todo Project inReact with Draggeble Todos in 3 Section (To Do's , In Progress , Completed) 
+This is a Todo Project in React with Draggeble Todos (I used react-beautiful-dnd for draggeble todos) in 3 Section (To Do's , In Progress , Completed) 
 
 
 ![mainpage](https://user-images.githubusercontent.com/75680845/107036577-ecdea100-67ca-11eb-8fa1-eb3797523bab.png)
